@@ -39,10 +39,12 @@ The steps for this assignment are divided into the following subsections:
 ![](/Evaluation_Evidence/deploy_KaseiCoin_CrowdsaleDeployer.jpg)
 
 #### KaseiCoin Token Contract
+(using At Address function)
 
 ![](/Evaluation_Evidence/deploy_KaseiCoin_token_atAddress.jpg)
 
 #### KaseiCoin Crowdsale Contract
+(using At Address function)
 
 ![](/Evaluation_Evidence/deploy_KaseiCoin_Crowdsale_atAddress.jpg)
 
