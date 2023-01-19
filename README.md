@@ -20,42 +20,42 @@ The steps for this assignment are divided into the following subsections:
 
 ## Succesful Compilation of Contracts
 
-### KaseiCoin Token Contract
+KaseiCoin Token Contract
 
 ![](/Evaluation_Evidence/compiled_KaseiCoin_contract.jpg)
 
-### KaseiCoin Crowdsale Contract 
+KaseiCoin Crowdsale Contract 
 
 ![](/Evaluation_Evidence/compiled_KaseiCoinCrowdsale_contract.jpg)
 
-### KasieCoin Crowdsale Deployer Contract
+KasieCoin Crowdsale Deployer Contract
 
 ![](/Evaluation_Evidence/compiled_KaseiCoin_deployer.jpg)
 
 ## Succesful Deployment of Contracts
 
-### KasieCoin Crowdsale Deployer Contract
+KasieCoin Crowdsale Deployer Contract
 
 ![](/Evaluation_Evidence/deploy_KaseiCoin_CrowdsaleDeployer.jpg)
 
-### KaseiCoin Token Contract
+KaseiCoin Token Contract
 
 ![](/Evaluation_Evidence/deploy_KaseiCoin_token_atAddress.jpg)
 
-### KaseiCoin Crowdsale Contract
+KaseiCoin Crowdsale Contract
 
 ![](/Evaluation_Evidence/deploy_KaseiCoin_Crowdsale_atAddress.jpg)
 
-## Testing the Contract
+## Testing the Contracts
 
-### Buying 20 ETH worth of tokens with new address
+Buying 20 ETH worth of tokens with new address
 
 ![](/Evaluation_Evidence/Buy_20_eth_worth_of_tokens.jpg)
 
-### Balance of KaseiCoin tokens in wallet
+Balance of KaseiCoin tokens in wallet
 
 ![](/Evaluation_Evidence/balanceOf.jpg)
 
-### New Total Supply & Wei Raised
+New Total Supply & Wei Raised
 
 ![](/Evaluation_Evidence/new_supply_and_wei_raised.jpg)
